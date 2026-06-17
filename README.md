@@ -2,7 +2,7 @@
 
 # Omar Momen
 
-### Graphic Designer • Frontend Developer • Egypt
+### Graphic Designer • Web Developer • Egypt
 
 Building modern web experiences with a passion for design, branding, and creative development.
 
