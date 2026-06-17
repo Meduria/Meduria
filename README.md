@@ -12,7 +12,6 @@
 
 ## ⚡ About Me
 
-```yaml
 Name: Omar Momen
 Location: Egypt
 Role: Graphic Designer & Frontend Developer
