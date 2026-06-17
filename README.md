@@ -103,7 +103,7 @@ Real-time subscriber counter and milestone tracking experience.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meduria&theme=redical&hide_border=true"/>
 
 </div>
 
@@ -113,7 +113,7 @@ Real-time subscriber counter and milestone tracking experience.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Meduria&theme=radical&no-frame=true&row=1&column=7"/>
 
 </div>
 
